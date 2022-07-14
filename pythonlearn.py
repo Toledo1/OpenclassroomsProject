@@ -1,4 +1,5 @@
 import numpy as np
+import torch as t
 liste = ["CZR", "toledo"]
 
 print(liste[0])
@@ -14,10 +15,6 @@ nouvelle_campagne = {
     "influenceurs_importants": ["@MonAmourDeChien", "@MeilleuresFriandisesPourChiens"]
 }
 
-hello
 
-step1
 
-step2
-
-step3
+print('Serious things begin')
